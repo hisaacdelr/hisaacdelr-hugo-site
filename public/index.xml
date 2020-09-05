@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Isaac Del Rosario</title>
-    <link>hisaacdelr.github.io/</link>
+    <link>https://hisaacdelr.github.io/</link>
     <description>Recent content on Isaac Del Rosario</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="hisaacdelr.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hisaacdelr.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Isaac</title>
-      <link>hisaacdelr.github.io/about/</link>
+      <link>https://hisaacdelr.github.io/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>hisaacdelr.github.io/about/</guid>
+      <guid>https://hisaacdelr.github.io/about/</guid>
       <description>Isaac Del Rosario is a software engineer currently working at Nordstrom Inc. in the Search Relevance space. Here, he has architected, implemented, and optimized backend microservices that allow customers to find their favorite items (here is Isaac&amp;rsquo;s personal favorite item).
 A budding tech talk comedian, on Jan. 2020 he presented his tech talk &amp;ldquo;The Princess is in Another Document: Intro to Search Engines with ElasticSearch&amp;rdquo; at the inaugural AdieCon conference.</description>
     </item>
